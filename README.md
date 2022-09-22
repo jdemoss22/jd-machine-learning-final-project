@@ -1,1 +1,1 @@
-# jd-machine-learning-final-project
+Machine Learning Final Assignment
